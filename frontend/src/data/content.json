@@ -1,0 +1,173 @@
+{
+  "specialties": [
+    "Prise de sang",
+    "Pansements",
+    "Injection",
+    "Diabète",
+    "Perfusions",
+    "Soins palliatifs",
+    "Suivi plaies"
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sophie D.",
+      "note": 5,
+      "text": "Réservation ultra rapide, infirmière très pro !",
+      "avatar": "/images/avatars/patient-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Marc T.",
+      "note": 5,
+      "text": "Trouvé une IDEL à 5 minutes, parfait pour mes soins.",
+      "avatar": "/images/avatars/patient-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nadia K.",
+      "note": 4,
+      "text": "Interface claire et simple.",
+      "avatar": "/images/avatars/patient-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Théo R.",
+      "note": 5,
+      "text": "SMS de rappel utile, expérience nickel.",
+      "avatar": "/images/avatars/patient-4.jpg"
+    }
+  ],
+  "cities": [
+    "Paris",
+    "Lyon",
+    "Marseille",
+    "Toulouse",
+    "Lille",
+    "Bordeaux",
+    "Nantes",
+    "Nice",
+    "Rennes",
+    "Montpellier",
+    "Strasbourg",
+    "Grenoble",
+    "Dijon",
+    "Reims",
+    "Angers",
+    "Clermont-Ferrand",
+    "Saint-Étienne",
+    "Toulon",
+    "Tours",
+    "Nîmes",
+    "Metz",
+    "Orléans",
+    "Caen",
+    "Rouen"
+  ],
+  "faqs": [
+    {
+      "question": "Comment fonctionne la réservation ?",
+      "answer": "Entrez votre adresse, choisissez un créneau disponible et confirmez votre rendez-vous. L'infirmier recevra une notification et confirmera l'intervention."
+    },
+    {
+      "question": "Les soins sont-ils remboursés ?",
+      "answer": "Oui, les soins à domicile sont remboursés par la Sécurité sociale et votre mutuelle, selon les conditions habituelles."
+    },
+    {
+      "question": "Comment sont vérifiés les infirmiers ?",
+      "answer": "Tous nos infirmiers sont diplômés d'État, vérifiés et certifiés. Nous vérifions leurs diplômes et leur autorisation d'exercice."
+    },
+    {
+      "question": "Puis-je annuler un rendez-vous ?",
+      "answer": "Oui, vous pouvez annuler jusqu'à 24h avant le rendez-vous. Passé ce délai, des frais peuvent s'appliquer."
+    },
+    {
+      "question": "Comment contacter l'infirmier ?",
+      "answer": "Via la messagerie intégrée de l'application, vous pouvez échanger directement avec l'infirmier avant et après l'intervention."
+    },
+    {
+      "question": "Quels types de soins sont proposés ?",
+      "answer": "Tous types de soins infirmiers : prises de sang, pansements, injections, perfusions, soins de plaies, suivi diabète, etc."
+    },
+    {
+      "question": "Les infirmiers sont-ils disponibles 24h/24 ?",
+      "answer": "Oui, nous avons des infirmiers disponibles 24h/24 et 7j/7 pour les urgences et soins programmés."
+    },
+    {
+      "question": "Comment sont calculés les tarifs ?",
+      "answer": "Les tarifs respectent la convention nationale des infirmiers libéraux. Ils varient selon le type d'intervention et l'heure."
+    }
+  ],
+  "features": [
+    {
+      "id": "rapid",
+      "title": "Réservation rapide",
+      "description": "Disponibilités en temps réel",
+      "icon": "mdi-lightning-bolt",
+      "color": "success",
+      "image": "/images/feature-rapid.jpg"
+    },
+    {
+      "id": "proximity",
+      "title": "Proche de chez vous",
+      "description": "IDEL vérifiés",
+      "icon": "mdi-map-marker-radius",
+      "color": "primary",
+      "image": "/images/feature-proximity.jpg"
+    },
+    {
+      "id": "quality",
+      "title": "Soins de qualité",
+      "description": "Avis authentiques",
+      "icon": "mdi-shield-check",
+      "color": "warning",
+      "image": "/images/feature-quality.jpg"
+    }
+  ],
+  "steps": [
+    {
+      "id": "step1",
+      "title": "Recherchez",
+      "description": "Entrez votre adresse et vos besoins",
+      "image": "/images/step-search.jpg"
+    },
+    {
+      "id": "step2",
+      "title": "Choisissez",
+      "description": "Sélectionnez l'infirmier qui vous convient",
+      "image": "/images/step-choose.jpg"
+    },
+    {
+      "id": "step3",
+      "title": "Confirmez",
+      "description": "Réservez votre créneau en toute simplicité",
+      "image": "/images/step-confirm.jpg"
+    }
+  ],
+  "nurseBenefits": [
+    "Patients à proximité",
+    "Calendrier & tournées",
+    "Messagerie",
+    "Facturation (Pro)"
+  ],
+  "stats": [
+    {
+      "icon": "mdi-clock-outline",
+      "number": "24/7",
+      "label": "Réservation en ligne",
+      "color": "success"
+    },
+    {
+      "icon": "mdi-heart-multiple",
+      "number": "+5k",
+      "label": "Soins réalisés",
+      "color": "primary"
+    },
+    {
+      "icon": "mdi-star",
+      "number": "4,8/5",
+      "label": "Satisfaction",
+      "color": "warning"
+    }
+  ]
+}
